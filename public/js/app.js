@@ -67903,6 +67903,120 @@ var render = function() {
     _vm._v(" "),
     _vm._m(1),
     _vm._v(" "),
+    _c("div", { staticClass: "services" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-4" }, [
+            _c("div", { staticClass: "service-item" }, [
+              _c(
+                "svg",
+                {
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    "enable-background": "new 0 0 24 24",
+                    height: "62",
+                    viewBox: "0 0 24 24",
+                    width: "62"
+                  }
+                },
+                [
+                  _c("g", [
+                    _c("rect", {
+                      attrs: { fill: "none", height: "24", width: "24" }
+                    })
+                  ]),
+                  _c("g", [
+                    _c("g", [
+                      _c("path", {
+                        staticClass: "icon",
+                        attrs: {
+                          d:
+                            "M21,12.22C21,6.73,16.74,3,12,3c-4.69,0-9,3.65-9,9.28C2.4,12.62,2,13.26,2,14v2c0,1.1,0.9,2,2,2h1v-6.1 c0-3.87,3.13-7,7-7s7,3.13,7,7V19h-8v2h8c1.1,0,2-0.9,2-2v-1.22c0.59-0.31,1-0.92,1-1.64v-2.3C22,13.14,21.59,12.53,21,12.22z"
+                        }
+                      }),
+                      _c("circle", {
+                        staticClass: "icon",
+                        attrs: { cx: "9", cy: "13", r: "1" }
+                      }),
+                      _c("circle", {
+                        staticClass: "icon",
+                        attrs: { cx: "15", cy: "13", r: "1" }
+                      }),
+                      _c("path", {
+                        staticClass: "icon",
+                        attrs: {
+                          d:
+                            "M18,11.03C17.52,8.18,15.04,6,12.05,6c-3.03,0-6.29,2.51-6.03,6.45c2.47-1.01,4.33-3.21,4.86-5.89 C12.19,9.19,14.88,11,18,11.03z"
+                        }
+                      })
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Active Support 24/7")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-4" }, [
+            _c("div", { staticClass: "service-item" }, [
+              _c(
+                "svg",
+                {
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    height: "62",
+                    viewBox: "0 0 24 24",
+                    width: "62"
+                  }
+                },
+                [
+                  _c("path", { attrs: { d: "M0 0h24v24H0z", fill: "none" } }),
+                  _c("path", {
+                    staticClass: "icon",
+                    attrs: {
+                      d:
+                        "M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                    }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Customer Care")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-4" }, [
+            _c("div", { staticClass: "service-item" }, [
+              _c(
+                "svg",
+                {
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    height: "62",
+                    viewBox: "0 0 24 24",
+                    width: "62"
+                  }
+                },
+                [
+                  _c("path", { attrs: { d: "M0 0h24v24H0z", fill: "none" } }),
+                  _c("path", {
+                    staticClass: "icon",
+                    attrs: {
+                      d:
+                        "M8 11.5c0-.83-.67-1.5-1.5-1.5S5 10.67 5 11.5 5.67 13 6.5 13 8 12.33 8 11.5zm7-5c0-.83-.67-1.5-1.5-1.5h-3C9.67 5 9 5.67 9 6.5S9.67 8 10.5 8h3c.83 0 1.5-.67 1.5-1.5zM8.5 15c-.83 0-1.5.67-1.5 1.5S7.67 18 8.5 18s1.5-.67 1.5-1.5S9.33 15 8.5 15zM12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9zm5.5-11c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm-2 5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5z"
+                    }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Easy to Customize")])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
     _c("section", { staticClass: "explore-work", attrs: { id: "explore" } }, [
       _c("div", { staticClass: "container expanded" }, [
         _c("div", { staticClass: "row" }, [
@@ -67910,11 +68024,11 @@ var render = function() {
           _vm._v(" "),
           _vm._m(3),
           _vm._v(" "),
-          _c("div", { staticClass: "col-lg-6" }, [
+          _c("div", { staticClass: "col-lg-7" }, [
             _c("div", { staticClass: "right-content" }, [
               _c("ul", [
                 _c("li", [
-                  _c("h4", [_vm._v("Interior Design")]),
+                  _c("h4", [_vm._v("Events")]),
                   _vm._v(" "),
                   _c("ul", { staticClass: "info" }, [
                     _c("li", [
@@ -67948,14 +68062,14 @@ var render = function() {
                           ]
                         ),
                         _vm._v(
-                          "\n                                            January 22, 2024\n                                        "
+                          "\n                                            October 23, 2023\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("h6", [
                         _c("a", { attrs: { href: "explore.html" } }, [
                           _vm._v(
-                            "\n                                                The Waterfront Cafe and Restaurant\n                                                "
+                            "\n                                                #Science Journo Ako Goes to Ilocos Norte\n                                                "
                           ),
                           _c(
                             "svg",
@@ -68014,14 +68128,14 @@ var render = function() {
                           ]
                         ),
                         _vm._v(
-                          "\n                                            January 22, 2024\n                                        "
+                          "\n                                            October 21, 2023\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("h6", [
                         _c("a", { attrs: { href: "explore.html" } }, [
                           _vm._v(
-                            "\n                                                The Waterfront Cafe and Restaurant\n                                                "
+                            "\n                                                Mini Science Centrum Launching in Polilio Island\n                                                "
                           ),
                           _c(
                             "svg",
@@ -68080,14 +68194,14 @@ var render = function() {
                           ]
                         ),
                         _vm._v(
-                          "\n                                            January 22, 2024\n                                        "
+                          "\n                                            October 15, 2023\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("h6", [
                         _c("a", { attrs: { href: "explore.html" } }, [
                           _vm._v(
-                            "\n                                                The Waterfront Cafe and Restaurant\n                                                "
+                            "\n                                                RSTW 2023 REGION 1 PROJECT VISITS\n                                                "
                           ),
                           _c(
                             "svg",
@@ -68146,80 +68260,14 @@ var render = function() {
                           ]
                         ),
                         _vm._v(
-                          "\n                                            January 22, 2024\n                                        "
+                          "\n                                            October 11, 2023\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("h6", [
                         _c("a", { attrs: { href: "explore.html" } }, [
                           _vm._v(
-                            "\n                                                The Waterfront Cafe and Restaurant\n                                                "
-                          ),
-                          _c(
-                            "svg",
-                            {
-                              staticClass: "bi bi-arrow-right",
-                              attrs: {
-                                xmlns: "http://www.w3.org/2000/svg",
-                                width: "24",
-                                height: "24",
-                                fill: "currentColor",
-                                viewBox: "0 0 16 16"
-                              }
-                            },
-                            [
-                              _c("path", {
-                                attrs: {
-                                  "fill-rule": "evenodd",
-                                  d:
-                                    "M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"
-                                }
-                              })
-                            ]
-                          )
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("span", { staticClass: "float-start" }, [
-                        _c(
-                          "svg",
-                          {
-                            staticClass: "bi bi-calendar-date-fill",
-                            attrs: {
-                              xmlns: "http://www.w3.org/2000/svg",
-                              width: "20",
-                              height: "20",
-                              fill: "currentColor",
-                              viewBox: "0 0 16 16"
-                            }
-                          },
-                          [
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2z"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c("path", {
-                              attrs: {
-                                d:
-                                  "M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zm-6.664-1.21c-1.11 0-1.656-.767-1.703-1.407h.683c.043.37.387.82 1.051.82.844 0 1.301-.848 1.305-2.164h-.027c-.153.414-.637.79-1.383.79-.852 0-1.676-.61-1.676-1.77 0-1.137.871-1.809 1.797-1.809 1.172 0 1.953.734 1.953 2.668 0 1.805-.742 2.871-2 2.871zm-2.89-5.435v5.332H5.77V8.079h-.012c-.29.156-.883.52-1.258.777V8.16a12.6 12.6 0 0 1 1.313-.805h.632z"
-                              }
-                            })
-                          ]
-                        ),
-                        _vm._v(
-                          "\n                                            January 22, 2024\n                                        "
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("h6", [
-                        _c("a", { attrs: { href: "explore.html" } }, [
-                          _vm._v(
-                            "\n                                                The Waterfront Cafe and Restaurant\n                                                "
+                            "\n                                                DOST-Handa Pilipinas 2023 in World Trade Center\n                                                "
                           ),
                           _c(
                             "svg",
@@ -68257,114 +68305,7 @@ var render = function() {
     _vm._v(" "),
     _vm._m(4),
     _vm._v(" "),
-    _vm._m(5),
-    _vm._v(" "),
-    _c("footer", { staticClass: "no-margin-footer" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "row" }, [
-          _vm._m(6),
-          _vm._v(" "),
-          _vm._m(7),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-lg-2" }, [
-            _c("div", { staticClass: "follow-us" }, [
-              _c("h4", [_vm._v("Follow Us")]),
-              _vm._v(" "),
-              _c("ul", { staticClass: "social-links" }, [
-                _c("li", [
-                  _c("a", { attrs: { href: "#" } }, [
-                    _c(
-                      "svg",
-                      {
-                        staticClass: "bi bi-facebook",
-                        attrs: {
-                          xmlns: "http://www.w3.org/2000/svg",
-                          width: "16",
-                          height: "16",
-                          fill: "currentColor",
-                          viewBox: "0 0 16 16"
-                        }
-                      },
-                      [
-                        _c("path", {
-                          attrs: {
-                            d:
-                              "M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"
-                          }
-                        })
-                      ]
-                    ),
-                    _vm._v(
-                      "\n                                    Facebook\n                                "
-                    )
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c("a", { attrs: { href: "#" } }, [
-                    _c(
-                      "svg",
-                      {
-                        staticClass: "bi bi-twitter",
-                        attrs: {
-                          xmlns: "http://www.w3.org/2000/svg",
-                          width: "16",
-                          height: "16",
-                          fill: "currentColor",
-                          viewBox: "0 0 16 16"
-                        }
-                      },
-                      [
-                        _c("path", {
-                          attrs: {
-                            d:
-                              "M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"
-                          }
-                        })
-                      ]
-                    ),
-                    _vm._v(
-                      "\n                                    Twitter\n                                "
-                    )
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c("a", { attrs: { href: "#" } }, [
-                    _c(
-                      "svg",
-                      {
-                        staticClass: "bi bi-linkedin",
-                        attrs: {
-                          xmlns: "http://www.w3.org/2000/svg",
-                          width: "16",
-                          height: "16",
-                          fill: "currentColor",
-                          viewBox: "0 0 16 16"
-                        }
-                      },
-                      [
-                        _c("path", {
-                          attrs: {
-                            d:
-                              "M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"
-                          }
-                        })
-                      ]
-                    ),
-                    _vm._v(
-                      "\n                                    Linkedin\n                                "
-                    )
-                  ])
-                ])
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _vm._m(8)
-        ])
-      ])
-    ])
+    _vm._m(5)
   ])
 }
 var staticRenderFns = [
@@ -68463,18 +68404,20 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "main-banner change-name" }, [
+    return _c("div", { staticClass: "page-banner change-name" }, [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-lg-12" }, [
+          _c("div", { staticClass: "col-lg-6 offset-lg-3" }, [
             _c("div", { staticClass: "header-text" }, [
               _c("h2", [
-                _c("em", [_vm._v("Digital Assets")]),
-                _vm._v(" Management System")
+                _vm._v("Digital Assets"),
+                _c("em", [_vm._v(" Management System")])
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "white-button" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Browse Here")])
+              _c("p", [
+                _vm._v(
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod keoi tempor incididunt ut labore et dolore magna aliqua."
+                )
               ])
             ])
           ])
@@ -68501,13 +68444,10 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-lg-6" }, [
+    return _c("div", { staticClass: "col-lg-5" }, [
       _c("div", { staticClass: "left-image" }, [
         _c("img", {
-          attrs: {
-            src: "images/explore-work-left-image.jpg",
-            alt: "Interior Design Work"
-          }
+          attrs: { src: "images/bg3.png", alt: "Interior Design Work" }
         })
       ])
     ])
@@ -68536,133 +68476,66 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "whats-trending" }, [
-      _c("div", { staticClass: "container expanded" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-lg-6 align-self-center" }, [
-            _c("div", { staticClass: "section-heading" }, [
-              _c("h2", [
-                _vm._v("Check Out Whats Trending In"),
-                _c("br"),
-                _c("em", [_vm._v("Our Interior Work")]),
-                _vm._v(".")
+    return _c(
+      "section",
+      {
+        staticClass: "whats-trending",
+        staticStyle: { "margin-bottom": "150px" }
+      },
+      [
+        _c("div", { staticClass: "container expanded" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-6 align-self-center" }, [
+              _c("div", { staticClass: "section-heading" }, [
+                _c("h2", [
+                  _vm._v("Check Out Whats Trending In"),
+                  _c("br"),
+                  _c("em", [_vm._v("Our Interior Work")]),
+                  _vm._v(".")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "left-content" }, [
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito adipcingi elit, sed do eismuod larehai med at vero eos et suscipit neque rerum molestias accusamus et iusto odio dignissimos ducimus qui blanditis."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "primary-button" }, [
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Discover More")])
+                ])
               ])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "left-content" }, [
-              _c("p", [
-                _vm._v(
-                  "Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito adipcingi elit, sed do eismuod larehai med at vero eos et suscipit neque rerum molestias accusamus et iusto odio dignissimos ducimus qui blanditis."
-                )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "primary-button" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Discover More")])
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-lg-4" }, [
-            _c("div", { staticClass: "right-image" }, [
-              _c("div", { staticClass: "thumb" }, [
-                _c("div", { staticClass: "hover-effect" }, [
-                  _c("div", { staticClass: "inner-content" }, [
-                    _c("h4", [
-                      _c("a", { attrs: { href: "#" } }, [
-                        _vm._v("Modernized Interior")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("span", [_vm._v("Guest Room Decoration")])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("img", {
-                  attrs: {
-                    src: "images/whats-trending-item-image.jpg",
-                    alt: ""
-                  }
-                })
+            _c("div", { staticClass: "col-lg-4" }, [
+              _c("div", { staticClass: "right-image" }, [
+                _c("div", { staticClass: "thumb" }, [
+                  _c("div", { staticClass: "hover-effect" }, [
+                    _c("div", { staticClass: "inner-content" }, [
+                      _c("h4", [
+                        _c("a", { attrs: { href: "#" } }, [
+                          _vm._v("Modernized Interior")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("Guest Room Decoration")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("img", {
+                    attrs: {
+                      src: "images/whats-trending-item-image.jpg",
+                      alt: ""
+                    }
+                  })
+                ])
               ])
             ])
           ])
         ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-lg-2" }, [
-      _c("div", { staticClass: "location-widget" }, [
-        _c("h4", [_vm._v("Our Location")]),
-        _vm._v(" "),
-        _c("p", [
-          _vm._v("Sunny Isles Beach, "),
-          _c("br"),
-          _c("br"),
-          _vm._v("Florida 33160, "),
-          _c("br"),
-          _vm._v("United States")
-        ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-lg-2" }, [
-      _c("div", { staticClass: "customer-care" }, [
-        _c("h4", [_vm._v("Customer Care")]),
-        _vm._v(" "),
-        _c("ul", { staticClass: "info" }, [
-          _c("li", [
-            _c("a", { attrs: { href: "#" } }, [_vm._v("010-020-0340")])
-          ]),
-          _vm._v(" "),
-          _c("li", [
-            _c("a", { attrs: { href: "#" } }, [_vm._v("090-080-0760")])
-          ]),
-          _vm._v(" "),
-          _c("li", [
-            _c("a", { attrs: { href: "#" } }, [_vm._v("info@company.com")])
-          ])
-        ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-lg-12" }, [
-      _c("div", { staticClass: "sub-footer" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-lg-6" }, [
-            _c("p", [
-              _vm._v(
-                "Copyright © 2022 Designer Co., Ltd. All Rights Reserved. \n                                \n                                "
-              ),
-              _c("br"),
-              _vm._v("Design: "),
-              _c(
-                "a",
-                {
-                  attrs: {
-                    rel: "nofollow",
-                    href: "https://templatemo.com",
-                    target: "_blank"
-                  }
-                },
-                [_vm._v("TemplateMo")]
-              )
-            ])
-          ])
-        ])
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true

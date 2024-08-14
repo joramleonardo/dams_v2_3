@@ -57,7 +57,7 @@ button.main-button {
   text-transform: capitalize;
   font-weight: 400;
   color: #ffffff;
-  background-color: #ff565b;
+  background-color: #132098;
   padding: 11px 25px;
   border-radius: 7.5px;
   display: inline-block;
@@ -76,7 +76,7 @@ button.main-button:hover {
   text-transform: capitalize;
   font-weight: 400;
   color: #ffffff;
-  background-color: #ff565b;
+  background-color: #132098;
   padding: 11px 25px;
   border-radius: 7.5px;
   display: inline-block;
@@ -92,7 +92,7 @@ button.main-button:hover {
   font-size: 14px;
   text-transform: capitalize;
   font-weight: 400;
-  color: #ff565b;
+  color: #132098;
   background-color: #ffffff;
   padding: 11px 25px;
   border-radius: 7.5px;
@@ -103,7 +103,7 @@ button.main-button:hover {
 
 .white-button a:hover {
   color: #ffffff;
-  background-color: #ff565b;
+  background-color: #132098;
 }
 
 section {
@@ -141,7 +141,7 @@ section {
 }
 
 .section-heading h2 em {
-  color: #ff565b;
+  color: #132098;
   font-style: normal;
   padding-left: 100px;
   position: relative;
@@ -150,7 +150,7 @@ section {
 .section-heading h2 em::before {
   width: 80px;
   height: 2px;
-  background-color: #ff565b;
+  background-color: #132098;
   content: '';
   position: absolute;
   left: 0;
@@ -177,7 +177,7 @@ section {
 
 .loader svg path,
 .loader svg rect {
-  fill: #ff565b;
+  fill: #132098;
 }
 
 .main-navigation {
@@ -294,12 +294,12 @@ header.nav-scrolled .main-navigation .navbar-nav .nav-item .active {
 }
 
 .navbar-light .navbar-nav .nav-item .nav-link:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 .navbar-light .navbar-nav .nav-item .active {
   font-weight: 400;
-  color: #ff565b;
+  color: #132098;
   background-color: transparent;
   border-radius: 0px;
   border-top: none;
@@ -310,7 +310,7 @@ header.nav-scrolled .main-navigation .navbar-nav .nav-item .active {
     background-color: #ffffff;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
-    border-top: 2px solid #ff565b;
+    border-top: 2px solid #132098;
   }
 }
 
@@ -325,7 +325,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner {
   background-color: #333;
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/bg1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -358,7 +358,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner h2 em {
   font-style: normal;
-  color: #ff565b;
+  color: #132098;
 }
 
 .search-form {
@@ -478,7 +478,7 @@ section.explore-work .right-content ul li ul.info li h6 a {
 }
 
 section.explore-work .right-content ul li ul.info li h6 a:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 section.explore-work .right-content ul li ul.info li em {
@@ -758,7 +758,7 @@ footer ul.info li a {
 }
 
 footer ul.info li a:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 footer ul.info li:last-child {
@@ -782,7 +782,7 @@ footer ul.social-links li a svg {
 }
 
 footer ul.social-links li a:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 footer ul.social-links li:last-child {
@@ -821,7 +821,7 @@ footer form#subscribe button {
 }
 
 footer form#subscribe button:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 footer .sub-footer {
@@ -830,7 +830,7 @@ footer .sub-footer {
 }
 
 footer .sub-footer p a {
-  color: #ff565b;
+  color: #132098;
 }
 
 footer .sub-footer a.scroll-to-top {
@@ -838,7 +838,7 @@ footer .sub-footer a.scroll-to-top {
   width: 100%;
   display: inline-block;
   font-size: 15px;
-  color: #ff565b;
+  color: #132098;
   -webkit-transition: all .5s;
   transition: all .5s;
 }
@@ -855,12 +855,12 @@ footer .sub-footer a.scroll-to-top svg {
 }
 
 footer .sub-footer a.scroll-to-top:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 .page-banner {
   background-color: #333;
-  background-image: url(../images/page-banner-bg.jpg);
+  background-image: url(../images/bg1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -891,7 +891,7 @@ footer .sub-footer a.scroll-to-top:hover {
 
 .page-banner h2 em {
   font-style: normal;
-  color: #ff565b;
+  color: #132098;
 }
 
 .page-banner p {
@@ -919,7 +919,7 @@ footer .sub-footer a.scroll-to-top:hover {
 }
 
 .services .service-item .icon {
-  fill: #ff565b;
+  fill: #132098;
 }
 
 .services .service-item h4 {
@@ -1055,7 +1055,7 @@ section.interior-design .right-content .accordion-body {
   position: absolute;
   left: 30px;
   top: -20px;
-  fill: #ff565b;
+  fill: #132098;
 }
 
 .what-they-say .testimonial-item h4 {
@@ -1122,7 +1122,7 @@ section.interior-design .right-content .accordion-body {
 
 .what-they-say .carousel-indicators .active {
   opacity: 1;
-  background-color: #ff565b;
+  background-color: #132098;
 }
 
 .call-to-action {
@@ -1301,7 +1301,7 @@ section.explore-item .projects-pagination .right-content h6 {
 }
 
 section.explore-item .projects-pagination .right-content h6:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 section.explore-item .projects-pagination .right-content span {
@@ -1339,7 +1339,7 @@ section.explore-item .projects-pagination .left-content h6 {
 }
 
 section.explore-item .projects-pagination .left-content h6:hover {
-  color: #ff565b;
+  color: #132098;
 }
 
 section.explore-item .projects-pagination .left-content span {
@@ -1393,7 +1393,7 @@ section.trending-page .trending-item .thumb {
 }
 
 section.trending-page .trending-item .thumb span.banner {
-  background-color: #ff565b;
+  background-color: #132098;
   color: #ffffff;
   font-size: 14px;
   padding: 10px 16px;
@@ -1419,7 +1419,7 @@ section.trending-page .trending-item .thumb .hover-effect .inner-content {
   padding: 20px 30px;
   border-bottom-left-radius: 7.5px;
   border-bottom-right-radius: 7.5px;
-  background-color: #ff565b;
+  background-color: #132098;
 }
 
 section.trending-page .trending-item .thumb .hover-effect .inner-content h4 {
@@ -1537,7 +1537,7 @@ section.contact-us-page .right-info ul li {
   width: 100%;
   padding: 30px;
   border-radius: 7.5px;
-  background-color: #ff565b;
+  background-color: #132098;
   text-align: center;
   margin-bottom: 30px;
 }
