@@ -71,7 +71,7 @@
                         <div class="col-lg-4">
                             <div class="top-streamers">
                                 <div class="heading-section">
-                                <h4><em>Top</em> Events</h4>
+                                <h4><em>Featured</em> Events</h4>
                                 </div>
                                 <ul>
                                 <li>
@@ -127,7 +127,7 @@
                         <div class="col-lg-12">
                             <div class="featured-games header-text">
                                 <div class="heading-section">
-                                <h4><em>Featured</em> Albums</h4>
+                                <h4><em>More</em> Events</h4>
                                 </div>
                                 <div class="owl-features owl-carousel">
                                     <div class="item">
@@ -268,7 +268,7 @@
                         </div>
                     </div>
 
-                    <div class="live-stream">
+                    <!-- <div class="live-stream">
                         <div class="col-lg-12">
                         <div class="heading-section">
                             <h4><em>More</em> Photos</h4>
@@ -417,13 +417,12 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div> 
             </div>
             </div>
         </div>
-
 
     </div>
 </template>

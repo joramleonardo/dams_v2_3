@@ -69643,9 +69643,7 @@ var render = function() {
                   ])
                 ])
               ]
-            ),
-            _vm._v(" "),
-            _vm._m(18)
+            )
           ])
         ])
       ])
@@ -69693,7 +69691,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "heading-section" }, [
-      _c("h4", [_c("em", [_vm._v("Top")]), _vm._v(" Events")])
+      _c("h4", [_c("em", [_vm._v("Featured")]), _vm._v(" Events")])
     ])
   },
   function() {
@@ -69701,7 +69699,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "heading-section" }, [
-      _c("h4", [_c("em", [_vm._v("Featured")]), _vm._v(" Albums")])
+      _c("h4", [_c("em", [_vm._v("More")]), _vm._v(" Events")])
     ])
   },
   function() {
@@ -69829,202 +69827,6 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("h4", [_vm._v("Title"), _c("br"), _c("span", [_vm._v("Date")])])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "live-stream" }, [
-      _c("div", { staticClass: "col-lg-12" }, [
-        _c("div", { staticClass: "heading-section" }, [
-          _c("h4", [_c("em", [_vm._v("More")]), _vm._v(" Photos")])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
-          _c("div", { staticClass: "item" }, [
-            _c("div", { staticClass: "thumb" }, [
-              _c("img", {
-                attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "hover-effect" }, [
-                _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "live" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Category")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "down-content" }, [
-              _c("h6", [_vm._v("Title")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-12" }, [
-          _c("div", { staticClass: "main-button" }, [
-            _c("a", { attrs: { href: "streams.html" } }, [_vm._v("Load More")])
-          ])
-        ])
-      ])
-    ])
   }
 ]
 render._withStripped = true
