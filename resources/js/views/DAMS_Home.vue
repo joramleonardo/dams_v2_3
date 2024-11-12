@@ -20,13 +20,13 @@
                                         </router-link>
                                     </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a class="">
                                         <router-link to="/categories"  >
                                             Categories
                                         </router-link>
                                     </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a class="">
                                         <router-link to="/photos"  >
@@ -83,7 +83,7 @@
                         <div class="row">
                             <div class="col-lg-3 col-sm-6">
                                 <div class="item">
-                                <img src="img/gallery-img-1-3col.jpg" alt="">
+                                <img src="img/dummy/1.jpg" alt="">
                                 <h4>Title<br><span>Category</span></h4>
                                 <ul>
                                     <li>
@@ -96,7 +96,7 @@
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <div class="item">
-                                <img src="img/gallery-img-1-3col.jpg" alt="">
+                                <img src="img/dummy/2.jpg" alt="">
                                 <h4>Title<br><span>Category</span></h4>
                                 <ul>
                                     <li>
@@ -109,7 +109,7 @@
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <div class="item">
-                                <img src="img/gallery-img-1-3col.jpg" alt="">
+                                <img src="img/dummy/3.jpg" alt="">
                                 <h4>Title<br><span>Category</span></h4>
                                 <ul>
                                     <li>
@@ -122,7 +122,7 @@
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <div class="item">
-                                <img src="img/gallery-img-1-3col.jpg" alt="">
+                                <img src="img/dummy/4.jpg" alt="">
                                 <h4>Title<br><span>Category</span></h4>
                                 <ul>
                                     <li>
@@ -153,7 +153,7 @@
                         </div>
                         <div class="item">
                             <ul>
-                            <li><img src="img/flickr-img-1.jpg" alt="" class="templatemo-item"></li>
+                            <li><img src="img/dummy/5.jpg" alt="" class="templatemo-item"></li>
                             <li><h4>Title A</h4><span>Title</span></li>
                             <li><h4>0:00</h4><span>Duration</span></li>
                             <li><h4>Category A</h4><span>Category</span></li>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="item">
                             <ul>
-                            <li><img src="img/flickr-img-1.jpg" alt="" class="templatemo-item"></li>
+                            <li><img src="img/dummy/6.jpg" alt="" class="templatemo-item"></li>
                             <li><h4>Title A</h4><span>Title</span></li>
                             <li><h4>0:00</h4><span>Duration</span></li>
                             <li><h4>Category A</h4><span>Category</span></li>
@@ -173,7 +173,7 @@
                         </div>
                         <div class="item">
                             <ul>
-                            <li><img src="img/flickr-img-1.jpg" alt="" class="templatemo-item"></li>
+                            <li><img src="img/dummy/7.jpg" alt="" class="templatemo-item"></li>
                             <li><h4>Title A</h4><span>Title</span></li>
                             <li><h4>0:00</h4><span>Duration</span></li>
                             <li><h4>Category A</h4><span>Category</span></li>
@@ -183,7 +183,7 @@
                         </div>
                         <div class="item">
                             <ul>
-                            <li><img src="img/flickr-img-1.jpg" alt="" class="templatemo-item"></li>
+                            <li><img src="img/dummy/8.jpg" alt="" class="templatemo-item"></li>
                             <li><h4>Title A</h4><span>Title</span></li>
                             <li><h4>0:00</h4><span>Duration</span></li>
                             <li><h4>Category A</h4><span>Category</span></li>
@@ -193,7 +193,7 @@
                         </div>
                         <div class="item">
                             <ul>
-                            <li><img src="img/flickr-img-1.jpg" alt="" class="templatemo-item"></li>
+                            <li><img src="img/dummy/4.jpg" alt="" class="templatemo-item"></li>
                             <li><h4>Title A</h4><span>Title</span></li>
                             <li><h4>0:00</h4><span>Duration</span></li>
                             <li><h4>Category A</h4><span>Category</span></li>

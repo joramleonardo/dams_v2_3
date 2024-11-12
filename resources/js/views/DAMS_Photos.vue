@@ -20,13 +20,13 @@
                                         </router-link>
                                     </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a class="active">
                                         <router-link to="/categories" >
                                             Categories
                                         </router-link>
                                     </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a class="">
                                         <router-link to="/photos"  >
@@ -61,7 +61,7 @@
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="thumb">
-                                <img src="img/blog-med-img-1.jpg" alt="" style="border-radius: 23px;">
+                                <img src="img/dummy/7.jpg" alt="" style="border-radius: 23px;">
                                <div class="item" style="margin-top:10px">
                                     <h4>Title Here</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim nibh, convallis sit amet dignissim sed, cursus eu diam.</p>
@@ -132,7 +132,7 @@
                                 <div class="owl-features owl-carousel">
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/8.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -151,7 +151,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/9.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/10.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -189,7 +189,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/11.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -208,7 +208,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/12.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -227,7 +227,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/13.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>
@@ -246,7 +246,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="thumb">
-                                            <img src="img/gallery-img-1-3col.jpg" alt="">
+                                            <img src="img/dummy/14.jpg" alt="">
                                             <div class="hover-effect">
                                                 <h6>Category</h6>
                                             </div>

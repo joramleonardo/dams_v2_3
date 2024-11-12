@@ -68517,21 +68517,6 @@ var render = function() {
                     "a",
                     {},
                     [
-                      _c("router-link", { attrs: { to: "/categories" } }, [
-                        _vm._v(
-                          "\n                                        Categories\n                                    "
-                        )
-                      ])
-                    ],
-                    1
-                  )
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c(
-                    "a",
-                    {},
-                    [
                       _c("router-link", { attrs: { to: "/photos" } }, [
                         _vm._v(
                           "\n                                        Photos\n                                    "
@@ -68666,7 +68651,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
       _c("div", { staticClass: "item" }, [
-        _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+        _c("img", { attrs: { src: "img/dummy/1.jpg", alt: "" } }),
         _vm._v(" "),
         _c("h4", [_vm._v("Title"), _c("br"), _c("span", [_vm._v("Category")])]),
         _vm._v(" "),
@@ -68686,7 +68671,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
       _c("div", { staticClass: "item" }, [
-        _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+        _c("img", { attrs: { src: "img/dummy/2.jpg", alt: "" } }),
         _vm._v(" "),
         _c("h4", [_vm._v("Title"), _c("br"), _c("span", [_vm._v("Category")])]),
         _vm._v(" "),
@@ -68706,7 +68691,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
       _c("div", { staticClass: "item" }, [
-        _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+        _c("img", { attrs: { src: "img/dummy/3.jpg", alt: "" } }),
         _vm._v(" "),
         _c("h4", [_vm._v("Title"), _c("br"), _c("span", [_vm._v("Category")])]),
         _vm._v(" "),
@@ -68726,7 +68711,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-lg-3 col-sm-6" }, [
       _c("div", { staticClass: "item" }, [
-        _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+        _c("img", { attrs: { src: "img/dummy/4.jpg", alt: "" } }),
         _vm._v(" "),
         _c("h4", [_vm._v("Title"), _c("br"), _c("span", [_vm._v("Category")])]),
         _vm._v(" "),
@@ -68755,7 +68740,7 @@ var staticRenderFns = [
             _c("li", [
               _c("img", {
                 staticClass: "templatemo-item",
-                attrs: { src: "img/flickr-img-1.jpg", alt: "" }
+                attrs: { src: "img/dummy/5.jpg", alt: "" }
               })
             ]),
             _vm._v(" "),
@@ -68792,7 +68777,7 @@ var staticRenderFns = [
             _c("li", [
               _c("img", {
                 staticClass: "templatemo-item",
-                attrs: { src: "img/flickr-img-1.jpg", alt: "" }
+                attrs: { src: "img/dummy/6.jpg", alt: "" }
               })
             ]),
             _vm._v(" "),
@@ -68829,7 +68814,7 @@ var staticRenderFns = [
             _c("li", [
               _c("img", {
                 staticClass: "templatemo-item",
-                attrs: { src: "img/flickr-img-1.jpg", alt: "" }
+                attrs: { src: "img/dummy/7.jpg", alt: "" }
               })
             ]),
             _vm._v(" "),
@@ -68866,7 +68851,7 @@ var staticRenderFns = [
             _c("li", [
               _c("img", {
                 staticClass: "templatemo-item",
-                attrs: { src: "img/flickr-img-1.jpg", alt: "" }
+                attrs: { src: "img/dummy/8.jpg", alt: "" }
               })
             ]),
             _vm._v(" "),
@@ -68903,7 +68888,7 @@ var staticRenderFns = [
             _c("li", [
               _c("img", {
                 staticClass: "templatemo-item",
-                attrs: { src: "img/flickr-img-1.jpg", alt: "" }
+                attrs: { src: "img/dummy/4.jpg", alt: "" }
               })
             ]),
             _vm._v(" "),
@@ -69251,21 +69236,6 @@ var render = function() {
                       _c("router-link", { attrs: { to: "/home" } }, [
                         _vm._v(
                           "\n                                        Home\n                                    "
-                        )
-                      ])
-                    ],
-                    1
-                  )
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c(
-                    "a",
-                    { staticClass: "active" },
-                    [
-                      _c("router-link", { attrs: { to: "/categories" } }, [
-                        _vm._v(
-                          "\n                                        Categories\n                                    "
                         )
                       ])
                     ],
@@ -69667,7 +69637,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "thumb" }, [
         _c("img", {
           staticStyle: { "border-radius": "23px" },
-          attrs: { src: "img/blog-med-img-1.jpg", alt: "" }
+          attrs: { src: "img/dummy/7.jpg", alt: "" }
         }),
         _vm._v(" "),
         _c(
@@ -69707,7 +69677,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/8.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69725,7 +69695,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/9.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69743,7 +69713,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/10.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69761,7 +69731,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/11.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69779,7 +69749,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/12.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69797,7 +69767,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/13.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69815,7 +69785,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/14.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -69871,21 +69841,6 @@ var render = function() {
                       _c("router-link", { attrs: { to: "/home" } }, [
                         _vm._v(
                           "\n                                        Home\n                                    "
-                        )
-                      ])
-                    ],
-                    1
-                  )
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c(
-                    "a",
-                    { staticClass: "active" },
-                    [
-                      _c("router-link", { attrs: { to: "/categories" } }, [
-                        _vm._v(
-                          "\n                                        Categories\n                                    "
                         )
                       ])
                     ],
@@ -69959,7 +69914,7 @@ var render = function() {
                               [
                                 _c(
                                   "router-link",
-                                  { attrs: { to: "/photos" } },
+                                  { attrs: { to: "/photo-post-details" } },
                                   [
                                     _vm._v(
                                       "\n                                                    Browse\n                                                "
@@ -69986,7 +69941,7 @@ var render = function() {
                               [
                                 _c(
                                   "router-link",
-                                  { attrs: { to: "/photos" } },
+                                  { attrs: { to: "/photo-post-details" } },
                                   [
                                     _vm._v(
                                       "\n                                                    Browse\n                                                "
@@ -70013,7 +69968,7 @@ var render = function() {
                               [
                                 _c(
                                   "router-link",
-                                  { attrs: { to: "/photos" } },
+                                  { attrs: { to: "/photo-post-details" } },
                                   [
                                     _vm._v(
                                       "\n                                                    Browse\n                                                "
@@ -70165,7 +70120,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "thumb" }, [
           _c("img", {
             staticStyle: { "border-radius": "23px" },
-            attrs: { src: "img/blog-med-img-1.jpg", alt: "" }
+            attrs: { src: "img/dummy/1.jpg", alt: "" }
           }),
           _vm._v(" "),
           _c(
@@ -70187,7 +70142,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "col-lg-4" }, [
         _c("div", { staticClass: "top-streamers" }, [
           _c("div", { staticClass: "heading-section" }, [
-            _c("h4", [_c("em", [_vm._v("Top")]), _vm._v(" Coverages")])
+            _c("h4", [_c("em", [_vm._v("Featured")])])
           ]),
           _vm._v(" "),
           _c("ul", [
@@ -70250,7 +70205,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "heading-section" }, [
-      _c("h4", [_c("em", [_vm._v("Featured")]), _vm._v(" Coverage")])
+      _c("h4", [_c("em", [_vm._v("More")]), _vm._v(" Coverage")])
     ])
   },
   function() {
@@ -70258,7 +70213,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/8.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70276,7 +70231,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/9.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70294,7 +70249,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/10.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70312,7 +70267,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/11.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70330,7 +70285,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/12.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70348,7 +70303,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/13.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -70366,7 +70321,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "thumb" }, [
-      _c("img", { attrs: { src: "img/gallery-img-1-3col.jpg", alt: "" } }),
+      _c("img", { attrs: { src: "img/dummy/14.jpg", alt: "" } }),
       _vm._v(" "),
       _c("div", { staticClass: "hover-effect" }, [
         _c("h6", [_vm._v("Category")])
@@ -88052,7 +88007,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _views_DAMS_Admin_Photo_Add_vue__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./views/DAMS_Admin_Photo_Add.vue */ "./resources/js/views/DAMS_Admin_Photo_Add.vue");
 /* harmony import */ var _views_DAMS_Admin_Photo_Manage_vue__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./views/DAMS_Admin_Photo_Manage.vue */ "./resources/js/views/DAMS_Admin_Photo_Manage.vue");
 /* harmony import */ var _views_DAMS_Photos_Single_Post_vue__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./views/DAMS_Photos-Single-Post.vue */ "./resources/js/views/DAMS_Photos-Single-Post.vue");
-/* harmony import */ var _views_DAMS_Videos_Single_Post_vue__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./views/DAMS_Videos-Single-Post.vue */ "./resources/js/views/DAMS_Videos-Single-Post.vue");
+/* harmony import */ var _views_DAMS_Videos_Single_Post_vue__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./views/DAMS_Videos-Single-Post.vue */ "./resources/js/views/DAMS_Videos-Single-Post.vue");
 
 
  //TICKETS
